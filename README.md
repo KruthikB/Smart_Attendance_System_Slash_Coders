@@ -1,5 +1,7 @@
 # Smart Attendance System // Slash Coders
 
+![MastHead](https://github.com/manumishra12/Smart_Attendance_System_Slash_Coders/blob/main/Banner.jpg)
+
 
 <p>
   
