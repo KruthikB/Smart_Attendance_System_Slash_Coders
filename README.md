@@ -15,7 +15,7 @@
   Even it can keep the track of students where they are actually in campus and all.
   <br><br>
   
-  <i><b> 🛠Tool and Language Used:</b></i>
+  <i><b> 🛠Technologies and Language Used:</b></i>
   <ul>
   > Python <br>
   > C/C++  <br>
@@ -31,7 +31,7 @@
   <ul>
   > Docs Link   :  https://docs.google.com/document/d/1L_j9oZOfPxcwdJ_UrszosksJJergPhBWWTkZ2wfh1xE/edit?usp=sharing <br>
   > Video Link  :  https://drive.google.com/file/d/1d9v643IctX16EITXF2wf2a2YPyL42FzT/view?usp=sharing <br>
-  > Github Link :
+  > Github Link :  https://github.com/manumishra12/Smart_Attendance_System_Slash_Coders
   </ul>
   
   
