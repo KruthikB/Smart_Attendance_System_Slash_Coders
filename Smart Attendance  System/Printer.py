@@ -23,7 +23,7 @@ def print_file():
 		win32api.ShellExecute(0, "print", file_to_print, None, ".", 0)
 
 # Make Button
-Button(root, text="Print FIle", command=print_file).pack()
+Button(root, text="Print File", command=print_file).pack()
 
 # Execute Tkinter
 root.mainloop()
